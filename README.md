@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nimeszh
+- 👋 Hi, I’m Nimesha Hansanuwan
 - 👀 I’m interested in Fullstack Web Development.
 - 🌱 I’m currently learning Back-End development while my Advance Level studies.
 - 💞️ I’m looking to collaborate on ?... Still no one 🥹
