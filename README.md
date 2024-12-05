@@ -1,9 +1,10 @@
 - 👋 Hi, I’m Nimesha Hansanuwan
 - 👀 I’m interested in Fullstack Web Development.
+- 🚀 Space & Astronomy Enthusiast
 - 🌱 I’m currently learning Back-End development while my Advance Level studies.
 - 💞️ I’m looking to collaborate on ?... Still no one 🥹
 - 📫 How to reach me : nimeshahansanuwan123456@gmail.com
-- 😄 Pronouns: Nimeshz, Gaming name : Erox
+- 😄 Pronouns: Nimeshz, Gamer : Erox777 Or Erox
 - ⚡ Fun fact: "Self-learning is the art of discovering what lies beyond the given answers, pushing yourself to question, explore, and redefine what’s possible."
 
 <!---
